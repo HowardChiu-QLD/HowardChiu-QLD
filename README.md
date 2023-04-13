@@ -3,11 +3,10 @@
 - 🌱 I’m currently learning Python, R, MySQL, and data analysis.
 - 💞️ I’m looking to collaborate on data analysis.
 - 📫 How to reach me: raytzan@gmail.com
-- --
-- I learn data analysis is to find a job in city to cheer my partner up.(She didn't like me working in the farm anymore.) 
-- I got a little interest in data analysis when I was in university studying accounting major. 
-- I was an assistant manager of a poultry farm for 3 years and a professional poultry farmer for 6 years in Australia, my knowledge is specialised on poultry health and husbandry. 
-- Feel free to contact me if anyone is into having some chooks in your backyard but no idea how to start. Cheers mate:) 
+---
+Hello and welcome to my Github profile! 
+
+As a former assistant manager of a poultry farm, I have always been drawn to problem-solving and optimization. Now, as a data analytics student at QUT, I am excited to apply those skills to the world of technology. My experience managing a complex operation has taught me the importance of attention to detail, risk management, and continuous improvement. These transferable skills, coupled with my technical proficiency in Python, R, and SQL queries, enable me to analyze complex data sets, detect patterns and anomalies, and identify potential security threats. I am passionate about using data analytics and cybersecurity to protect businesses and individuals from cyber attacks and enhance their performance. If you're looking for a proactive and adaptable team player with a strong work ethic and a passion for technology, I would be thrilled to connect with you.
 
 <!---
 HowardChiu-QLD/HowardChiu-QLD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
