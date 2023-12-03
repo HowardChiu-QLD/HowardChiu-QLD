@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and data analysis.
 - 🌱 I’m currently learning Python, R, MySQL, and data analysis.
 - 💞️ I’m looking to collaborate on data analysis.
-- 📫 How to reach me: raytzan@gmail.com
+- 📫 How to reach me: howardchiu311215@gmail.com
 ---
 Hello and welcome to my Github profile! 
 
